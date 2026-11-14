@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "star-core",
+    "star-data",
+    "star-cli",
+    "star-web",
+]
+resolver = "2"
